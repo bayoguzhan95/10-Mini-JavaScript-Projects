@@ -8,7 +8,7 @@
 7) popup
 8) sound-board
 9) toast-notification
-zoom-effect
+10)zoom-effect
 
 1) auto-write-text
 
