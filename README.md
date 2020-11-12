@@ -1,4 +1,14 @@
 # 10-Mini-Project
+1) auto-write-text
+2) background-changer
+3) carousel
+4) dark-mode-toggle
+5) green-heart-rain
+6) hamburger
+7) popup
+8) sound-board
+9) toast-notification
+zoom-effect
 
 1) auto-write-text
 
@@ -19,9 +29,9 @@
 
 4) dark-mode-toggle
 
-![Screenshot_7](https://user-images.githubusercontent.com/72581411/98948828-fdeb7f00-2507-11eb-8640-ee274b95f8c2.png)
+![Screenshot_7](https://user-images.githubusercontent.com/72581411/98949498-da750400-2508-11eb-9609-ae233767ad04.png)
+![Screenshot_8](https://user-images.githubusercontent.com/72581411/98949499-db0d9a80-2508-11eb-8a27-bee4d6afef88.png)
 
-![Screenshot_8](https://user-images.githubusercontent.com/72581411/98948829-fe841580-2507-11eb-9292-b80f6e1f7538.png)
 
 5) green-heart-rain
 
