@@ -16,7 +16,8 @@
 
 ![Screenshot_5](https://user-images.githubusercontent.com/72581411/98948731-df858380-2507-11eb-83ff-bbce786685cc.png)
 
-![Screenshot_6](https://user-images.githubusercontent.com/72581411/98948747-e14f4700-2507-11eb-852f-4807434668f5.png)
+![Screenshot_17](https://user-images.githubusercontent.com/72581411/98951055-d8ac4000-250a-11eb-9fb6-f4f39b7bb7ef.png)
+
 
 # 4) dark-mode-toggle
 
