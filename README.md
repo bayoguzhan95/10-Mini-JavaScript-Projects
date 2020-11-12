@@ -1,14 +1,5 @@
 # 10-Mini-Project
-# 1) auto-write-text
-# 2) background-changer 
-# 3) carousel
-# 4) dark-mode-toggle
-# 5) green-heart-rain
-# 6) hamburger
-# 7) popup
-# 8) sound-board
-# 9) toast-notification
-# 10)zoom-effect
+
 
 # 1) auto-write-text
 
