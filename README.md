@@ -14,9 +14,9 @@
 
 # 3) carousel
 
-![Screenshot_5](https://user-images.githubusercontent.com/72581411/98948731-df858380-2507-11eb-83ff-bbce786685cc.png)
+![Screenshot_18](https://user-images.githubusercontent.com/72581411/98951272-1610cd80-250b-11eb-8710-eecb834b486d.png)
+![Screenshot_19](https://user-images.githubusercontent.com/72581411/98951274-1741fa80-250b-11eb-945c-3d32b5af0d13.png)
 
-![Screenshot_17](https://user-images.githubusercontent.com/72581411/98951055-d8ac4000-250a-11eb-9fb6-f4f39b7bb7ef.png)
 
 
 # 4) dark-mode-toggle
