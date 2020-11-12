@@ -1,6 +1,6 @@
 # 10-Mini-Project
-# 1) auto-write-text
-# 2) background-changer
+# 1) auto-write-text  # 2) background-changer  # 3) carousel  # 4) dark-mode-toggle  # 5) green-heart-rain
+
 # 3) carousel
 # 4) dark-mode-toggle
 # 5) green-heart-rain
